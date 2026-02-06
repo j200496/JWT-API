@@ -79,3 +79,4 @@ C:\Users\User\source\repos\Test\obj\Debug\net8.0\refint\JsonWebToken.dll
 C:\Users\User\source\repos\Test\obj\Debug\net8.0\JsonWebToken.pdb
 C:\Users\User\source\repos\Test\obj\Debug\net8.0\JsonWebToken.genruntimeconfig.cache
 C:\Users\User\source\repos\Test\obj\Debug\net8.0\ref\JsonWebToken.dll
+C:\Users\User\source\repos\JsonWebToken\obj\Debug\net8.0\JsonWebToken.sourcelink.json

@@ -16,6 +16,26 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "JsonWebToken.Controllers.Login",
+    "Method": "GetValues",
+    "RelativePath": "api/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JsonWebToken.Controllers.Login",
+    "Method": "Perfil",
+    "RelativePath": "api/Login/perfil",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "JsonWebToken.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

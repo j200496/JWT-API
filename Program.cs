@@ -19,7 +19,17 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidAudience = "UsuariosDemo",
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("ClaveParaDemostracion123456789123456789123456789123456789123456789!!"))
         };
+        options.Events = new JwtBearerEvents
+        {
+            OnMessageReceived = context =>
+            {
+                context.Token = context.Request.Cookies["Access_token"];
+                return Task.CompletedTask;
+            }
+        };
     });
+ 
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

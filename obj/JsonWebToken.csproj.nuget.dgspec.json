@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Test\\JsonWebToken.csproj": {}
+    "C:\\Users\\User\\source\\repos\\JsonWebToken\\JsonWebToken.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Test\\JsonWebToken.csproj": {
+    "C:\\Users\\User\\source\\repos\\JsonWebToken\\JsonWebToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Test\\JsonWebToken.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\JsonWebToken\\JsonWebToken.csproj",
         "projectName": "JsonWebToken",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Test\\JsonWebToken.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\JsonWebToken\\JsonWebToken.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Test\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\JsonWebToken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
